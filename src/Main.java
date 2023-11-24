@@ -1,6 +1,9 @@
 import javax.sound.midi.Soundbank;
 import java.util.Arrays;
 
+// full stack course java 6 lesson homework
+// http://www.beginwithjava.com/java/methods/questions.html --> 5 exercises.
+
 public class Main {
 
     // Question 1 - Write a program with a method named getTotal that accepts two integers as an argument and return its sum. Call this method from main( ) and print the results.
